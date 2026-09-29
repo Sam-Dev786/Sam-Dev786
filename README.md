@@ -11,7 +11,7 @@
 ╚══════╝╚═╝  ╚═╝╚═╝     ╚═╝    ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚═╝     ╚═╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=2000&pause=800&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=%24+whoami+--+Senior+Full+Stack+%26+AI+Engineer;%24+location+--+Round+Rock%2C+TX+%F0%9F%87%BA%F0%9F%87%B8;%24+status+--+Building+Production+AI+Systems;%24+clearance+--+US+Citizen+%7C+No+Sponsorship+Needed" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&weight=700&duration=2000&pause=800&color=FF8C00&center=true&vCenter=true&multiline=false&width=600&lines=%24+whoami+--+Senior+Full+Stack+%26+AI+Engineer;%24+location+--+Round+Rock%2C+TX+%F0%9F%87%BA%F0%9F%87%B8;%24+status+--+Building+Production+AI+Systems;%24+clearance+--+US+Citizen+%7C+No+Sponsorship+Needed" alt="Typing SVG" />
 
 </div>
 
@@ -25,7 +25,7 @@ $ cat profile.json
 {
   "name": "Sam Akram",
   "role": "Senior Full Stack & Agentic AI Engineer",
-  "company": "Hellogov AI",
+  "company": "Amgen",
   "location": "Round Rock, TX, USA",
   "experience": "12+ years",
   "status": "Open to opportunities",
@@ -34,7 +34,7 @@ $ cat profile.json
     "email": "idevsam7@gmail.com",
     "linkedin": "linkedin.com/in/sam-a-411aa1162",
     "portfolio": "sam-akram-engineer-2s50ogp.gamma.site",
-    "github": "github.com/hakeemsyd"
+    "github": "github.com/Sam-Dev786"
   },
   "currently": {
     "building": "Production multi-agent AI systems",
@@ -135,10 +135,10 @@ $ ./run-stats.sh hakeemsyd
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Sam-Dev786&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&icon_color=00FF41&text_color=00FF41&ring_color=00FF41" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev786&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=00FF41&text_color=00FF41" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Sam-Dev786&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&icon_color=FF8C00&text_color=FF8C00&ring_color=FF8C00" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sam-Dev786&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=FF8C00&text_color=FF8C00" height="165"/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Dev786&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=00FF41&fire=00FF41&currStreakLabel=00FF41" width="60%"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Sam-Dev786&theme=chartreuse-dark&hide_border=true&background=0d1117&ring=FF8C00&fire=FF8C00&currStreakLabel=FF8C00" width="60%"/>
 
 </div>
 
@@ -182,12 +182,12 @@ Response time: Fast
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%2300FF41?style=flat-square&logo=linkedin&logoColor=black)](https://linkedin.com/in/sam-a-411aa1162)
-[![Portfolio](https://img.shields.io/badge/Portfolio-%2300FF41?style=flat-square&logo=google-chrome&logoColor=black)](https://sam-akram-engineer-2s50ogp.gamma.site/)
-[![Email](https://img.shields.io/badge/Email-%2300FF41?style=flat-square&logo=gmail&logoColor=black)](mailto:idevsam7@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-%2300FF41?style=flat-square&logo=github&logoColor=black)](https://github.com/hakeemsyd)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0d1117?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/sam-a-411aa1162)
+[![Portfolio](https://img.shields.io/badge/Portfolio-0d1117?style=flat-square&logo=google-chrome&logoColor=white)](https://sam-akram-engineer-2s50ogp.gamma.site/)
+[![Email](https://img.shields.io/badge/Email-0d1117?style=flat-square&logo=gmail&logoColor=white)](mailto:idevsam7@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-0d1117?style=flat-square&logo=github&logoColor=white)](https://github.com/Sam-Dev786)
 
-<img src="https://komarev.com/ghpvc/?username=Sam-Dev786&label=visitors&color=00FF41&style=flat-square"/>
+<img src="https://komarev.com/ghpvc/?username=Sam-Dev786&label=visitors&color=FF8C00&style=flat-square"/>
 
 ```
 > Connection established. Let's build something great. _
